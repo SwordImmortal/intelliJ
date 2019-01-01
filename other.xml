@@ -1,0 +1,11 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Documents/技术学习/源码/工具/GoogleStyle.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.7.0" last-modified="1534126001000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.7.0/bin/node" />
+  </component>
+</application>
