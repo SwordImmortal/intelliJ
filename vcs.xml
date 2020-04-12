@@ -26,6 +26,10 @@
           <option name="url" value="http://gitlab.zyde.vip" />
           <option name="userName" value="zhengqi.yan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alibaba/p3c.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/coding/github" />
