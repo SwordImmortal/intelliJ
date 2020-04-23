@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/alibaba/p3c.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.20.20.83:8082" />
+          <option name="userName" value="yanzhengqi" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/coding/github" />
