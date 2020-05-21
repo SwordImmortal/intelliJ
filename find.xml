@@ -20,6 +20,7 @@
     <mask>*.jsp</mask>
     <mask>*.vue</mask>
     <mask>*.java</mask>
+    <mask>*.class</mask>
     <mask>*.*</mask>
   </component>
 </application>
