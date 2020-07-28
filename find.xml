@@ -18,12 +18,12 @@
     <mask>*.mxml</mask>
     <mask>*.jsp</mask>
     <mask>*.vue</mask>
-    <mask>*.class</mask>
-    <mask>*.*</mask>
     <mask>*constants.java</mask>
     <mask>*DTO.java</mask>
     <mask>*.xml</mask>
     <mask>*.txt</mask>
+    <mask>*.*</mask>
+    <mask>*.class</mask>
     <mask>*.java</mask>
   </component>
 </application>
