@@ -9,7 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.as</mask>
@@ -21,9 +21,9 @@
     <mask>*DTO.java</mask>
     <mask>*.class</mask>
     <mask>*.txt</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.*</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
