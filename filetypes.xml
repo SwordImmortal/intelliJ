@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="ProxyTest" type="JAVA" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping ext="00315_ydy_白名单迁移" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
