@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.as</mask>
@@ -20,8 +20,8 @@
     <mask>*.class</mask>
     <mask>*.txt</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.*</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
