@@ -24,6 +24,7 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*cons*.java</mask>
     <mask>*.*</mask>
   </component>
 </application>
