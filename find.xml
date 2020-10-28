@@ -25,6 +25,7 @@
     <mask>*.java</mask>
     <mask>*cons*.java</mask>
     <mask>*.xml</mask>
+    <mask>*util.java</mask>
     <mask>*.*</mask>
   </component>
 </application>
