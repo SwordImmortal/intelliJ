@@ -3,6 +3,7 @@
     <ignoreFiles list="*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.checkstyle;.git;.gitignore;.hg;.mvn;.svn;CVS;__pycache__;_svn;mvnw*;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="ProxyTest" type="JAVA" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
