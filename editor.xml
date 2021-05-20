@@ -5,9 +5,18 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.microservices.url.path.inlay.hints" />
+      </set>
+    </option>
   </component>
 </application>
