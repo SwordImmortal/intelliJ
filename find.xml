@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="存在审核流程时，导入任务未更新可发放状态" />
+    <option name="defaultScopeName" value="存在审核流程时，导入任务未更新可发放状态" />
+    <option name="SEARCH_SCOPE" value="存在审核流程时，导入任务未更新可发放状态" />
     <option name="FILE_MASK" value="*.*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
