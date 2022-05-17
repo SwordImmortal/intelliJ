@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/coding/localcode" />
+        <option value="$USER_HOME$/coding/work/nyt/business" />
       </list>
     </option>
   </component>
