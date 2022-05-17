@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/coding/localcode" />
         <option value="$USER_HOME$/coding/work/nyt/business" />
+        <option value="$USER_HOME$/coding/work/nyt/train" />
       </list>
     </option>
   </component>
