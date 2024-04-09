@@ -46,9 +46,13 @@
           <option name="url" value="https://github.com/zhaoguhong/lion-gateway.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.niuyetai.cn/business/alita-job.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/coding/github" />
+    <option name="cloneParentDir" value="$USER_HOME$/coding/work/nyt/business" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="LABELS_LEFT_ALIGNED" value="true" />
